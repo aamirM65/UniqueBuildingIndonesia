@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UniqueBuildingIndonesia</string>
+    <string name="building_name">Nama Gedung</string>
+    <string name="detail">detail</string>
+    <string name="about">About</string>
+    <string name="nama_identitas">Muhammad Amirullah</string>
+    <string name="email">Email</string>
+    <string name="titik_dua">:</string>
+    <string name="my_email">mamirullah65@gmail.com</string>
+    <string name="asal">Asal</string>
+    <string name="my_home">Surabaya</string>
+    <string name="sekolah">Sekolah</string>
+    <string name="my_school">SMKN 5 Surabaya</string>
+</resources>
